@@ -18,4 +18,3 @@ Match the output:
 
 Click the > arrow for the next challenge.
 
-
