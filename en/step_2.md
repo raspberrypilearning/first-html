@@ -3,5 +3,5 @@
 ➡️ Change the word 'cannot' to 'can'
 --- /task ---
 
-<h1 style="color: grey; font-size: 12px; font-family: Roboto;">I can code in HTML!</h1>
+<h1 style="color: grey; font-size: 18px; font-family: Roboto;">I can code in HTML!</h1>
 
