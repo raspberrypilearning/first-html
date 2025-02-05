@@ -1,22 +1,36 @@
-## What can you do now?
+<h2 class="c-project-heading--task">🟢 Task</h2>
+--- task ---
+➡️ Make the text colour lime
+--- /task ---
 
-If you are following the [PATH NAME](https://projects.raspberrypi.org/en/pathways/PATH-NAME) pathway, you can move on to the [NEXT PROJECT/PATH NAME](https://projects.raspberrypi.org/en/projects/PROJECT-SLUG) project. In this project, you will do DESCRIPTION.
+<div class="c-project-output">
+```
+<body>
+    <h1 style="color: lime; font-size: 12px;">I can code in HTML!</h1>
+</body>
+```
+</div>
 
------- OR ---------
+<div class="c-project-callout c-project-callout--tip">
+## 👀 Hint 
 
-Try our [PROJECT/PATH NAME](https://projects.raspberrypi.org/en/collections/PATH-SLUG) project pathway where you will DESCRIPTION.
+<div class="c-project-code">
+--- code ---
+---
+language: html
+---
+<body>
+    <h1 style="color: red; font-size: 12px;">I can code in HTML!</h1>
+</body>
+--- /code ---
+</div>
 
---- print-only --- 
+<div class="c-project-output" style="bgcolor:white">
+```
+<body>
+    <h1 style="color: red; font-size: 12px;">I can code in HTML!</h1>
+</body>
+```
+</div>
+</div>
 
-![ALT TEXT](images/IMAGE-FROM-PROJECT.png)
-
---- /print-only ---
-
---- no-print ---
-
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/STARTER_PROJECT_SLUG" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe>
-
---- /no-print ---
-
-Or, why not try out another [CODING_LANGUAGE](https://projects.raspberrypi.org/en/projects?software%5B%5D=CODING_LANGUAGE) project.
