@@ -13,9 +13,8 @@
 ---
 language: html
 ---
-<body>
-    <h1 style="color: red; font-size: 12px; font-family: Roboto;">I can code in HTML!</h1>
-</body>
+<h1 style="color: red; 
+
 --- /code ---
 </div>
 
