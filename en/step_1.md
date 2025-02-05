@@ -8,7 +8,7 @@
 
 Match the output:
 
-<h1 style="color: grey; font-size: 12px; font-family: Roboto;">I cannot code in HTML!</h1>
+<h1 style="color: grey; font-size: 18px; font-family: Roboto;">I cannot code in HTML!</h1>
 
 Click the > arrow for the next challenge.
 
