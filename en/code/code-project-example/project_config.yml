@@ -1,0 +1,4 @@
+name: "First HTML"
+identifier: "fist-html-starter"
+type: 'html'
+build: false
