@@ -3,11 +3,7 @@
 ➡️ Make the text colour lime
 --- /task ---
 
-<div class="c-project-output">
-<body>
-    <h1 style="color: lime; font-size: 12px;">I can code in HTML!</h1>
-</body>
-</div>
+<h1 style="color: lime; font-size: 12px;">I can code in HTML!</h1>
 
 <div class="c-project-callout c-project-callout--tip">
 ## 👀 Hint 
@@ -18,15 +14,9 @@
 language: html
 ---
 <body>
-    <h1 style="color: red; font-size: 12px;">I can code in HTML!</h1>
+    <h1 style="color: red; font-size: 12px; font-family: Roboto;">I can code in HTML!</h1>
 </body>
 --- /code ---
 </div>
 
-<div class="c-project-output" style="bgcolor:white">
-<body>
-    <h1 style="color: red; font-size: 12px;">I can code in HTML!</h1>
-</body>
-</div>
-</div>
-
+<h1 style="color: red; font-size: 12px;">I can code in HTML!</h1>
