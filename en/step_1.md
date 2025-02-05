@@ -8,9 +8,7 @@
 
 Match the output:
 
-<div class="c-project-output">
-    <h1 style="color: grey; font-size: 12px;">I cannot code in HTML!</h1>
-</div>
+<h1 style="color: grey; font-size: 12px;">I cannot code in HTML!</h1>
 
 Click the > arrow for the next challenge.
 
