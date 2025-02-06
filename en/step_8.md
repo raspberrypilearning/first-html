@@ -5,7 +5,7 @@
 
 --- /task ---
 
-<a href="hidden.html">
+<a href="?page=hidden.html">
   <img src="images/success.webp" width="100px"/>
 </a>
 
