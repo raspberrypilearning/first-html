@@ -19,11 +19,7 @@
 ---
 language: html
 ---
-<h1 style="color: lime; 
-          font-size: 30px;">
-    I can code in HTML!
-</h1>
-<img src="images/success.webp" width="300"/>
+
 <ul>
   <li>My pet potato's called Bob 🥔</li>
   <li>I can eat 10 biscuits in one minute! 🍪</li>

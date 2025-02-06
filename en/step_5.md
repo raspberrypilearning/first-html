@@ -7,7 +7,7 @@
           font-size: 30px;">
     I can code in HTML!
 </h1>
-<img src="images/success.webp"/>
+<img src="images/success.webp" width="100px"/>
 
 <div class="c-project-callout c-project-callout--tip">
 ## 👀 Hint 
@@ -26,6 +26,7 @@ language: html
     I can code in HTML!
 </h1>
 <img src="XXXXXXX.webp"/>
+</body>
 
 --- /code ---
 

@@ -7,7 +7,7 @@
           font-size: 30px;">
     I can code in HTML!
 </h1>
-<img src="images/success.webp">
+<img src="images/success.webp" width="100px"/>
 <ul>
   <li>My pet potato's called Bob 🥔</li>
   <li>I can eat 10 biscuits in one minute! 🍪</li>
@@ -26,7 +26,7 @@ language: html
           font-size: 30px;">
     I can code in HTML!
 </h1>
-<img src="images/success.webp"/>
+<img src="success.webp"/>
 <ul>
   <li>My pet potato's called Bob 🥔</li>
 </ul>
