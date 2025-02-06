@@ -3,7 +3,7 @@
 ➡️ Make the text bigger
 --- /task ---
 
-<h1 style="color: lime; 
+<h1 style="color: blue; 
             font-size: 30px;">
     I can code in HTML!
 </h1>
