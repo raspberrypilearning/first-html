@@ -1,9 +1,9 @@
 <h2 class="c-project-heading--task">🟢 Task</h2>
 --- task ---
-➡️ Make the text colour lime
+➡️ Make the text colour blue
 --- /task ---
 
-<h1 style="color: lime; 
+<h1 style="color: blue; 
           font-size: 18px;">
     I can code in HTML!
 </h1>
