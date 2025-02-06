@@ -7,3 +7,5 @@ Unless otherwise specified, everything in this repository is covered by the foll
 ***PROJECT NAME*** by the [Raspberry Pi Foundation](http://www.raspberrypi.org) is licensed under a [Creative Commons Attribution 4.0 International licence](http://creativecommons.org/licenses/by-sa/4.0/).
 
 Based on a work at https://github.com/raspberrypilearning/project-name.
+
+Code screen image from: https://unsplash.com/photos/monitor-showing-java-programming-OqtafYT5kTw
