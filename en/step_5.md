@@ -15,12 +15,20 @@
 
 <div class="c-project-code">
 
-```
+--- code ---
+
+---
+language: html
+
+---
+
 <h1 style="color: lime; 
             font-size: 30px; 
             font-family: Roboto;">
     I can code in HTML!
 </h1>
 <img src="images/XXXXXXX.webp" width="300"/>
-```
+
+--- /code ---
+
 </div>
