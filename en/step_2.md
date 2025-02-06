@@ -4,7 +4,6 @@
 --- /task ---
 
 <h1 style="color: grey; 
-          font-size: 18px; 
-          font-family: Roboto;">
+          font-size: 18px;">
     I can code in HTML!
 </h1>

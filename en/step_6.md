@@ -4,15 +4,14 @@
 --- /task ---
 
 <h1 style="color: lime; 
-          font-size: 30px; 
-          font-family: Roboto;">
+          font-size: 30px;">
     I can code in HTML!
 </h1>
-<img src="images/success.webp" width="300"/>
+<img src="images/success.webp">
 <ul>
+  <li>My pet potato's called Bob 🥔</li>
   <li>I can eat 10 biscuits in one minute! 🍪</li>
-  <li>I have a pet potato named Bob. 🥔</li>
-  <li>My favourite colour is invisible. 🎨</li>
+  <li>My favourite colour is invisible 🫥</li>
 </ul>
 
 <div class="c-project-callout c-project-callout--tip">
@@ -24,13 +23,12 @@
 language: html
 ---
 <h1 style="color: lime; 
-          font-size: 30px; 
-          font-family: Roboto;">
+          font-size: 30px;">
     I can code in HTML!
 </h1>
-<img src="images/success.webp" width="300"/>
+<img src="images/success.webp"/>
 <ul>
-  <li>I can eat 10 biscuits in one minute! 🍪</li>
+  <li>My pet potato's called Bob 🥔</li>
 </ul>
 
 --- /code ---

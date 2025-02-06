@@ -1,0 +1,11 @@
+/* Import a font */
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+:root {
+
+  --body-font: "Roboto", sans-serif;
+
+  --nav-colour: #33658a;
+  --nav-items-colour: #55dde0;
+  --nav-items-active: white;
+}
