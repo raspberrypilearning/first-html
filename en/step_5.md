@@ -25,7 +25,7 @@ language: html
           font-size: 30px;">
     I can code in HTML!
 </h1>
-<img src="images/XXXXXXX.webp"/>
+<img src="XXXXXXX.webp"/>
 
 --- /code ---
 
