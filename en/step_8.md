@@ -5,9 +5,9 @@
 
 --- /task ---
 
-<a href="?page=hidden.html">
-  <img src="images/success.webp" width="100px"/>
-</a>
+
+<img src="images/success.webp" width="100px"/>
+
 
 
 <div class="c-project-callout c-project-callout--tip">
@@ -20,7 +20,7 @@ language: html
 ---
 
 <a href="XXXXXX.html">
-  <img src="images/success.webp"/>
+  <img src="success.webp"/>
 </a>
 
 --- /code ---
