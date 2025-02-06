@@ -4,11 +4,10 @@
 --- /task ---
 
 <h1 style="color: lime; 
-          font-size: 30px; 
-          font-family: Roboto;">
+          font-size: 30px;">
     I can code in HTML!
 </h1>
-<img src="images/success.webp" width="300"/>
+<img src="images/success.webp"/>
 
 <div class="c-project-callout c-project-callout--tip">
 ## 👀 Hint 
@@ -23,11 +22,10 @@ language: html
 ---
 
 <h1 style="color: lime; 
-          font-size: 30px; 
-          font-family: Roboto;">
+          font-size: 30px;">
     I can code in HTML!
 </h1>
-<img src="images/XXXXXXX.webp" width="300"/>
+<img src="images/XXXXXXX.webp"/>
 
 --- /code ---
 

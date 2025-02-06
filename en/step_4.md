@@ -4,8 +4,7 @@
 --- /task ---
 
 <h1 style="color: lime; 
-            font-size: 30px; 
-            font-family: Roboto;">
+            font-size: 30px;">
     I can code in HTML!
 </h1>
 
@@ -17,6 +16,7 @@
 ---
 language: html
 ---
+
 font-size:
 
 --- /code ---

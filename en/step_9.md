@@ -2,7 +2,7 @@
 
 --- task ---
 
-Congratulations on completing the project.
+Congratulations, you have completed the project!
 
 You can now:
 
